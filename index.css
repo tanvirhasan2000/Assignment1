@@ -143,7 +143,6 @@ nav a:hover {
     font-size: 40px;
     margin-bottom: 50px;
 }
-
 .speakers-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -159,7 +158,6 @@ nav a:hover {
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     border: 1px solid #eaeaea;
 }
-
 .speaker-card img {
     width: 100%;
     height: 250px;
